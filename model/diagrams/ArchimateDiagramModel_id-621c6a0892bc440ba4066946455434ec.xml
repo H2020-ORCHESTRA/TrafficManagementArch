@@ -28,6 +28,15 @@
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-70672899a4854b08853e96a4a0903bb2.xml#id-70672899a4854b08853e96a4a0903bb2"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-cb44dd64afce441a86cd7fd6a424f408"
+        source="id-2d46084b602b4795af12b06b538aa90c"
+        target="id-e13d0d312a014f88a3dfec7d08437030">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-df0a4440d0964af3a1f8e129123baccd.xml#id-df0a4440d0964af3a1f8e129123baccd"/>
+    </sourceConnections>
     <bounds
         x="267"
         y="74"
@@ -80,5 +89,21 @@
     <archimateElement
         xsi:type="archimate:Stakeholder"
         href="Stakeholder_id-53222786175948bda46311c5d58ff92d.xml#id-53222786175948bda46311c5d58ff92d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e13d0d312a014f88a3dfec7d08437030"
+      targetConnections="id-cb44dd64afce441a86cd7fd6a424f408">
+    <features
+        name="gradient"
+        value="0"/>
+    <bounds
+        x="584"
+        y="228"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_id-18f8fca540dd4788ac52745b63597630.xml#id-18f8fca540dd4788ac52745b63597630"/>
   </children>
 </archimate:ArchimateDiagramModel>
