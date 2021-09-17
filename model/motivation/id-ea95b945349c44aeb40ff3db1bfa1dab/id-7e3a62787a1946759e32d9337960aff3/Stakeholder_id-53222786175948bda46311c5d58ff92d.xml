@@ -1,4 +1,5 @@
 <archimate:Stakeholder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Strategic Planning Manager"
-    id="id-53222786175948bda46311c5d58ff92d"/>
+    id="id-53222786175948bda46311c5d58ff92d"
+    documentation="The Strategic Planning Manager role is responsible for the strategic management of the traffic flow management and the transport network resource management for an area of governance. This includes plans for automated vs manual traffic management measures, transport demand management, access control, priorities, etc.  The role is also responsible for the overall strategies reagarding the collaboration and cooridnation with other modes and governance areas. "/>

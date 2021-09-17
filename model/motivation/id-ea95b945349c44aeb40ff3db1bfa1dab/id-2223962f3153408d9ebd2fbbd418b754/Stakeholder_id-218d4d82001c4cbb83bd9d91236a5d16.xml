@@ -1,4 +1,5 @@
 <archimate:Stakeholder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Regulator"
-    id="id-218d4d82001c4cbb83bd9d91236a5d16"/>
+    id="id-218d4d82001c4cbb83bd9d91236a5d16"
+    documentation="The regulator role is, depending on the area of governance, responsible for legislative issues (European and national) or regulations (natiinal and local). The latter must be in accordance with the legislation and includes regulations affecting the traffic management."/>

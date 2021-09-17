@@ -1,4 +1,5 @@
 <archimate:Stakeholder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Authority"
-    id="id-b3239dc485ff41b7aece1f7a2c3d9179"/>
+    id="id-b3239dc485ff41b7aece1f7a2c3d9179"
+    documentation="This Authority role is responsible for monitorings and inspections of a aspects of interest in the transport domain, and whenever this is required, for interventons and sanctions adapted to  envisioned situations. &#xD;&#xA;"/>

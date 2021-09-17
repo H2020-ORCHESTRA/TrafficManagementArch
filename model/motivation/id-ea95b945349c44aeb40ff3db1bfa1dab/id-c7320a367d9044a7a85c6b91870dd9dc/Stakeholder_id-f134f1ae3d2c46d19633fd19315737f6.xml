@@ -1,4 +1,5 @@
 <archimate:Stakeholder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Fleet Operator"
-    id="id-f134f1ae3d2c46d19633fd19315737f6"/>
+    id="id-f134f1ae3d2c46d19633fd19315737f6"
+    documentation="The Fleet Operator is responsible for the planning and execution of the fleet operations. The planning includes resource allocations, time schedule planning, etc. and is done across all the available demands from different Transport Service Providers. The operations are transport between location that must be carried out according to rules and regulations."/>

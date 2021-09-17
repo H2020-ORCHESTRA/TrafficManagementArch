@@ -1,4 +1,5 @@
 <archimate:Stakeholder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Traffic Manager"
-    id="id-9d1837c606414843be269ca82b237630"/>
+    id="id-9d1837c606414843be269ca82b237630"
+    documentation="The Traffic Manager role is responsible for the traffic flow management and the transport network resource management in a transport network inforstructure for a specific area of governance . The aim is to arrange for sustainable transport from an environmental, economical and societal point of view. The resource management includes the management of the access to and use of limited resources like parking spaces, loading bays, waiting areas, etc. The role is also responsible for the coordination towards Traffic Managers in other modes and/or governance areas and thereby to contrinute to a more optimal transport system as a whole - across modes and governance areas. "/>

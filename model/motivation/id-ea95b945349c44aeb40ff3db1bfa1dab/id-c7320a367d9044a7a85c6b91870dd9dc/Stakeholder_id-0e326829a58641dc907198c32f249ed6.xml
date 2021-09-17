@@ -1,4 +1,5 @@
 <archimate:Stakeholder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vehicle Controller"
-    id="id-0e326829a58641dc907198c32f249ed6"/>
+    id="id-0e326829a58641dc907198c32f249ed6"
+    documentation="The Vehicle Controller role is responsible for the operation of the vehicle/vessel, integration in the traffic in compliance with laws and regulations and for safety issues related to behaviour and operation of the vehicle/vessel The role may be covered by a persion (supported by systems) or by a systems (in the the vehicle/vessel). Is the case for Connected and Autoomated Vehicles (CAVs), the role is covered by systems. Laws and regulations must be followed."/>

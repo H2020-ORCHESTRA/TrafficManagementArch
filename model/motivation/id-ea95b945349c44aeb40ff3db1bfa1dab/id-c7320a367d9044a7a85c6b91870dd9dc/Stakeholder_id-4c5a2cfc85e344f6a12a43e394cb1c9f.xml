@@ -1,4 +1,5 @@
 <archimate:Stakeholder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Transport Service Provider"
-    id="id-4c5a2cfc85e344f6a12a43e394cb1c9f"/>
+    id="id-4c5a2cfc85e344f6a12a43e394cb1c9f"
+    documentation="The Transport Service Provider role is responsible for the planning related to the provision of transport services to the Transport User role and for the user support. The latter includes support for bookings, status reporting, support during the transport, etc. The actual transport operations will however be managed by the Fleet Operator role "/>

@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Stakeholders"
-    id="id-ea95b945349c44aeb40ff3db1bfa1dab"/>
+    id="id-ea95b945349c44aeb40ff3db1bfa1dab"
+    documentation="The stakeholders are roles with a certain set of responsibilities. Several actors in the real word may ahve the same role, and one actor can have several roles. An actor may also switch between roles depending on the situation. For example, a Freight Forwarder can act as a Transport Service Provider when receiving requests from a Transport User and act as a Transport User when requesting services from other Transport Service Providers (e.g. different types of operators/carriers)."/>

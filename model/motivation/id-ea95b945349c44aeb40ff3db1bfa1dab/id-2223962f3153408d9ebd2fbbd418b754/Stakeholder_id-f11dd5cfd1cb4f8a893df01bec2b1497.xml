@@ -1,4 +1,5 @@
 <archimate:Stakeholder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Emergency Manager"
-    id="id-f11dd5cfd1cb4f8a893df01bec2b1497"/>
+    id="id-f11dd5cfd1cb4f8a893df01bec2b1497"
+    documentation="The Emergency Manager role is responsible for emergency preparedness, capability and response related to transport. Depending on the transport network addressed, this may be responsibility on a national, re-gional or local level, and the coordination between the different levels will be a part of the responsibility."/>
