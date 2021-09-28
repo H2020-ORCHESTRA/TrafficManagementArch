@@ -466,29 +466,16 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-9225eca4eeb24e048ed1ce1ddc1d9855"
-      font="1|Segoe UI|16.2|0|WINDOWS|1|-27|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-      textAlignment="1"
-      fillColor="#80ff80"
-      content="DRIVER: What are the drivers for a change towards resilient and multimodal traffic orchestration">
-    <bounds
-        x="1152"
-        y="246"
-        width="233"
-        height="175"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
       id="id-2741b863f69249a6885a3cfd93039e01"
-      font="1|Segoe UI|16.2|0|WINDOWS|1|-27|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      font="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
       fillColor="#80ffff"
-      content="ASSESSMENT: ">
+      content="ASSESSMENT:&#xD;&#xA;Represents the result of an analysis of the state of affairs with respect to some driver.&#xD;&#xA;&#xD;&#xA;">
     <bounds
         x="1164"
         y="574"
         width="185"
-        height="80"/>
+        height="110"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -627,7 +614,7 @@
     <bounds
         x="361"
         y="749"
-        width="145"
+        width="168"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Assessment"
@@ -669,5 +656,18 @@
     <archimateElement
         xsi:type="archimate:Assessment"
         href="Assessment_id-18dcd3fee3a0493d8e9ca9dbe9e4eef9.xml#id-18dcd3fee3a0493d8e9ca9dbe9e4eef9"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-d477b520833b4bdd90b526385a2f274a"
+      font="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      fillColor="#80ff80"
+      content="DRIVER: &#xD;&#xA;What motivates the stakeholder for a change towards resilient and multimodal traffic orchestration.">
+    <bounds
+        x="1140"
+        y="262"
+        width="193"
+        height="106"/>
   </children>
 </archimate:ArchimateDiagramModel>

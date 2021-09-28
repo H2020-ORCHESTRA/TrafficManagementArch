@@ -6,6 +6,6 @@
       xsi:type="archimate:Driver"
       href="Driver_id-24b376ae74e34fc788d5a894385e477e.xml#id-24b376ae74e34fc788d5a894385e477e"/>
   <target
-      xsi:type="archimate:Driver"
-      href="Driver_id-86a56ffe8564495995647f480a1af99d.xml#id-86a56ffe8564495995647f480a1af99d"/>
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-1852440ff1424022a2fb7afb99973ffb.xml#id-1852440ff1424022a2fb7afb99973ffb"/>
 </archimate:AssociationRelationship>
