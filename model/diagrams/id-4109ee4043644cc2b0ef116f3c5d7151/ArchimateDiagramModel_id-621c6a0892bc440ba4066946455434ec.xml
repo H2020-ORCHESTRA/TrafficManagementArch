@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Traffic Manager Drivers"
+    name="Traffic Orchestrator Drivers"
     id="id-621c6a0892bc440ba4066946455434ec"
     viewpoint="motivation">
   <children
