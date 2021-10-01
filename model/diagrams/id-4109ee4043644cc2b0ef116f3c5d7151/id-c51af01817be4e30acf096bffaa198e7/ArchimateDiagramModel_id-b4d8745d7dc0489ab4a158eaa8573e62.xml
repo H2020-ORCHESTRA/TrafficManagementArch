@@ -227,7 +227,7 @@
       font="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
       fillColor="#80ff80"
-      content="DRIVER: &#xD;&#xA;What motivates the stakeholder for use of CAVs and an adaption  to resilient and multimodal traffic orchestration.">
+      content="DRIVER: &#xD;&#xA;What motivates the stakeholder for a change towards resilient and multimodal traffic orchestration.&#xD;&#xA;">
     <features
         name="gradient"
         value="0"/>
@@ -235,7 +235,7 @@
         x="23"
         y="84"
         width="193"
-        height="91"/>
+        height="133"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -382,22 +382,6 @@
     <archimateElement
         xsi:type="archimate:Assessment"
         href="Assessment_id-255e84252763464397dbcd44300c0671.xml#id-255e84252763464397dbcd44300c0671"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-dd5e18fad267408a9965fb09a9be6aa6"
-      font="1|Segoe UI|16.2|0|WINDOWS|1|-27|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-      textAlignment="1"
-      fillColor="#ff80ff"
-      content="Freight transport">
-    <features
-        name="gradient"
-        value="0"/>
-    <bounds
-        x="480"
-        y="84"
-        width="185"
-        height="37"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
