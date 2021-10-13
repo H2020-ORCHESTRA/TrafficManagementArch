@@ -782,4 +782,34 @@
         xsi:type="archimate:Assessment"
         href="Assessment_id-ed3bfce20d3c48cc8074d42598ba7d7c.xml#id-ed3bfce20d3c48cc8074d42598ba7d7c"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-72cc0b507505433d8e08fd81d96a5afc"
+      textAlignment="1"
+      fillColor="#929000"
+      content="Driver input from workshop">
+    <features
+        name="gradient"
+        value="0"/>
+    <bounds
+        x="1188"
+        y="120"
+        width="129"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-24895ad4d75845e9a904e24a19c83d94"
+      textAlignment="1"
+      fillColor="#75d5ff"
+      content="Assessment input from workshop&#xA;">
+    <features
+        name="gradient"
+        value="0"/>
+    <bounds
+        x="1188"
+        y="231"
+        width="129"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>

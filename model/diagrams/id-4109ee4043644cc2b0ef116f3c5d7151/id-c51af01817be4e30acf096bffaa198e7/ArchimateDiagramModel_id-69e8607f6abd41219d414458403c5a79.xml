@@ -959,4 +959,34 @@
         width="185"
         height="80"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-ee0194b7826c46199ce221c11a47f05d"
+      textAlignment="1"
+      fillColor="#929000"
+      content="Driver input from workshop">
+    <features
+        name="gradient"
+        value="0"/>
+    <bounds
+        x="1296"
+        y="12"
+        width="129"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-a1be993aa1a1467f9046844af070c8bd"
+      textAlignment="1"
+      fillColor="#75d5ff"
+      content="Assessment input from workshop&#xA;">
+    <features
+        name="gradient"
+        value="0"/>
+    <bounds
+        x="1296"
+        y="123"
+        width="129"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>
