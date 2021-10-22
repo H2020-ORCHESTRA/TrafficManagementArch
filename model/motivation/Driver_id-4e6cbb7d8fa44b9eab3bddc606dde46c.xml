@@ -1,4 +1,5 @@
 <archimate:Driver
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Green transport"
-    id="id-4e6cbb7d8fa44b9eab3bddc606dde46c"/>
+    id="id-4e6cbb7d8fa44b9eab3bddc606dde46c"
+    documentation="Green transport is one of the main drivers for the public traffic orchestrator due to policy goals. Also for the private traffic orchestrator this is an important driver, either due to their own motivation and/or due to regulations and public image. "/>
