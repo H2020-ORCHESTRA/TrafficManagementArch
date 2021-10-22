@@ -162,7 +162,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-76f381fdec8f42e483f5d38c4451b870"
-      targetConnections="id-7a2846b030054453b09d4c57367b7f5d id-949d5216c6484d6ba5b977469e676655"
+      targetConnections="id-7a2846b030054453b09d4c57367b7f5d id-949d5216c6484d6ba5b977469e676655 id-23e7c57e295041c983c33a31cc4fc62f"
       fillColor="#80ff80">
     <features
         name="gradient"
@@ -285,8 +285,8 @@
         name="gradient"
         value="0"/>
     <bounds
-        x="-12"
-        y="120"
+        x="-66"
+        y="100"
         width="193"
         height="81"/>
   </children>
@@ -935,9 +935,27 @@
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-8fe2ced08bcb4f0c903d8f2f5ce8bb02.xml#id-8fe2ced08bcb4f0c903d8f2f5ce8bb02"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-23e7c57e295041c983c33a31cc4fc62f"
+        source="id-cc1878bfccfa400cafba506582292cf1"
+        target="id-76f381fdec8f42e483f5d38c4451b870">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-4d2c362166b74b4ba1e6990b6e8e2127.xml#id-4d2c362166b74b4ba1e6990b6e8e2127"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-6df296a069754b2da6b97b5fc0f778be"
+        source="id-cc1878bfccfa400cafba506582292cf1"
+        target="id-3ea13adfe46949b98a75a78f69bd25b8">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-a42457a468c142f7a50c355bc0a58cc7.xml#id-a42457a468c142f7a50c355bc0a58cc7"/>
+    </sourceConnections>
     <bounds
-        x="900"
-        y="255"
+        x="24"
+        y="162"
         width="133"
         height="55"/>
     <archimateElement
@@ -946,7 +964,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-3ea13adfe46949b98a75a78f69bd25b8">
+      id="id-3ea13adfe46949b98a75a78f69bd25b8"
+      targetConnections="id-6df296a069754b2da6b97b5fc0f778be">
     <features
         name="gradient"
         value="0"/>
