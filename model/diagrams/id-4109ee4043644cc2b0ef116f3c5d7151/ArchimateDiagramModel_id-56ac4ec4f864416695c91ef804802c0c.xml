@@ -447,30 +447,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-0f0134cc40ba46bcb70abe0ee8ba6d7a">
-    <features
-        name="gradient"
-        value="0"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-26d1e21de7e542cd9798d6d43a90ec31"
-        source="id-0f0134cc40ba46bcb70abe0ee8ba6d7a"
-        target="id-1086d3a5b54241d29f2f9b3f4cee39aa">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-7e6f6c29c63e46a18267ce69bbb1bb66.xml#id-7e6f6c29c63e46a18267ce69bbb1bb66"/>
-    </sourceConnections>
-    <bounds
-        x="12"
-        y="232"
-        width="133"
-        height="71"/>
-    <archimateElement
-        xsi:type="archimate:Assessment"
-        href="Assessment_id-cacbc75f3b4643db955b9035cb99c7dd.xml#id-cacbc75f3b4643db955b9035cb99c7dd"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3066de04a7ac4672a733b8ab5f18f66f">
     <features
         name="gradient"
@@ -925,5 +901,26 @@
     <archimateElement
         xsi:type="archimate:Goal"
         href="Goal_id-f7bb973dc0c64c2eb1af972c6d92c277.xml#id-f7bb973dc0c64c2eb1af972c6d92c277"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-069b7825216c4da58e67640f1de24037">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-26d1e21de7e542cd9798d6d43a90ec31"
+        source="id-069b7825216c4da58e67640f1de24037"
+        target="id-1086d3a5b54241d29f2f9b3f4cee39aa">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-7e6f6c29c63e46a18267ce69bbb1bb66.xml#id-7e6f6c29c63e46a18267ce69bbb1bb66"/>
+    </sourceConnections>
+    <bounds
+        x="24"
+        y="240"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_id-e004d51ed9fc48fb9db5a514455617f2.xml#id-e004d51ed9fc48fb9db5a514455617f2"/>
   </children>
 </archimate:ArchimateDiagramModel>
