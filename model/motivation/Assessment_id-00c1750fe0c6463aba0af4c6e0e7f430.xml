@@ -1,4 +1,5 @@
 <archimate:Assessment
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business models do not cover flexible transhipments in case of network problems"
-    id="id-00c1750fe0c6463aba0af4c6e0e7f430"/>
+    name="Business models limit flexibility in case of network problems"
+    id="id-00c1750fe0c6463aba0af4c6e0e7f430"
+    documentation="Business models do not cover flexible transhipments in case of network problems"/>
