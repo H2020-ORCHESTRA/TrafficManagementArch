@@ -525,8 +525,8 @@
         name="gradient"
         value="0"/>
     <bounds
-        x="948"
-        y="684"
+        x="1116"
+        y="674"
         width="120"
         height="55"/>
     <archimateElement
@@ -605,7 +605,7 @@
         name="gradient"
         value="0"/>
     <bounds
-        x="239"
+        x="204"
         y="666"
         width="120"
         height="55"/>
@@ -797,8 +797,8 @@
         name="gradient"
         value="0"/>
     <bounds
-        x="627"
-        y="72"
+        x="625"
+        y="48"
         width="120"
         height="55"/>
     <archimateElement
