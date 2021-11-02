@@ -1206,4 +1206,20 @@
         xsi:type="archimate:Assessment"
         href="Assessment_id-870c4adf8a8b4491aad8976eb4e2335b.xml#id-870c4adf8a8b4491aad8976eb4e2335b"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-3fbeee48600141b6b7020ae5772fa5a0"
+      fillColor="#929000">
+    <features
+        name="gradient"
+        value="0"/>
+    <bounds
+        x="513"
+        y="979"
+        width="149"
+        height="102"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_id-cac21962329145a6bbd440d420018ad0.xml#id-cac21962329145a6bbd440d420018ad0"/>
+  </children>
 </archimate:ArchimateDiagramModel>

@@ -1,4 +1,5 @@
 <archimate:Driver
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Operation during abnormal situations"
-    id="id-29af37ed90c24088aac6ddde5d659883"/>
+    id="id-29af37ed90c24088aac6ddde5d659883"
+    documentation="Includes flexible obstruction handling"/>

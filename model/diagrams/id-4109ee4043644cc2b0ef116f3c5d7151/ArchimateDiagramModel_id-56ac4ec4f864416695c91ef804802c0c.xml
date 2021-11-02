@@ -923,4 +923,36 @@
         xsi:type="archimate:Driver"
         href="Driver_id-e004d51ed9fc48fb9db5a514455617f2.xml#id-e004d51ed9fc48fb9db5a514455617f2"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-632cdc28505448d2a7180de05c3f6867"
+      fillColor="#929000">
+    <features
+        name="gradient"
+        value="0"/>
+    <bounds
+        x="132"
+        y="924"
+        width="120"
+        height="91"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_id-79b45d34492a40ecb3e8840c0b7208f4.xml#id-79b45d34492a40ecb3e8840c0b7208f4"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-07bd0fe65b1b4d20a5d939d38c9522b3"
+      fillColor="#929000">
+    <features
+        name="gradient"
+        value="0"/>
+    <bounds
+        x="478"
+        y="914"
+        width="160"
+        height="76"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_id-10e201aaf9074bcd8a1e7af694aae26e.xml#id-10e201aaf9074bcd8a1e7af694aae26e"/>
+  </children>
 </archimate:ArchimateDiagramModel>
