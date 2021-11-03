@@ -415,10 +415,10 @@
           href="InfluenceRelationship_id-31de58b60bc24d3ba9024a2d69cc88f8.xml#id-31de58b60bc24d3ba9024a2d69cc88f8"/>
     </sourceConnections>
     <bounds
-        x="754"
-        y="1069"
+        x="767"
+        y="1052"
         width="146"
-        height="55"/>
+        height="74"/>
     <archimateElement
         xsi:type="archimate:Assessment"
         href="Assessment_id-2239377e5a3c400ea12e5ce465f762ee.xml#id-2239377e5a3c400ea12e5ce465f762ee"/>
@@ -681,10 +681,10 @@
         source="id-40d48392c1c742aeb8f381bf8bb7e5c8"
         target="id-d6f3c59ddbda4344b1b2bd5661c2793d">
       <bendpoints
-          startX="-390"
-          startY="105"
-          endX="48"
-          endY="-266"/>
+          startX="-456"
+          startY="84"
+          endX="122"
+          endY="-173"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-54073d86487c445a9f6b72e7df55744e.xml#id-54073d86487c445a9f6b72e7df55744e"/>
@@ -1132,8 +1132,8 @@
       id="id-f79f52af64ad484d99f1059e6fcbe990"
       targetConnections="id-ea9c076545234f7d8098eb12f18cc648">
     <bounds
-        x="36"
-        y="341"
+        x="42"
+        y="287"
         width="120"
         height="82"/>
     <archimateElement

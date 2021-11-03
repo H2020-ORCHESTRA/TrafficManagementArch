@@ -1,4 +1,5 @@
 <archimate:Driver
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Costs"
-    id="id-334170d300434a5782f39eab098019d7"/>
+    id="id-334170d300434a5782f39eab098019d7"
+    documentation="The cost must be propotional to revenue level of each stakeholder"/>
