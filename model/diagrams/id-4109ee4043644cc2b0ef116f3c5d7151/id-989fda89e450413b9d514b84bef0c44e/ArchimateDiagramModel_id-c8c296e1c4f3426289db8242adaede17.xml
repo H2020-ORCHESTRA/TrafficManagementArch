@@ -47,15 +47,6 @@
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-b4427fa639c84c4d95100189c20cbd8b.xml#id-b4427fa639c84c4d95100189c20cbd8b"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-c8a38b4baf6a4e72b5cac22ff2c1f7cf"
-        source="id-aa0a0e47ea164341bfa4b68898092c80"
-        target="id-631cd8ec1a1e4dad9aa4929d5ae09ae0">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-b4da6e4ca2a44e3091bd460282b0ac09.xml#id-b4da6e4ca2a44e3091bd460282b0ac09"/>
-    </sourceConnections>
     <bounds
         x="301"
         y="504"
@@ -194,15 +185,6 @@
     <features
         name="gradient"
         value="0"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-0c5aee64890946eb983ccec220634410"
-        source="id-e934692246d94d4eb760ab2fedd7c5ac"
-        target="id-631cd8ec1a1e4dad9aa4929d5ae09ae0">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-1525a2b24bcf49a29fff55ac59713022.xml#id-1525a2b24bcf49a29fff55ac59713022"/>
-    </sourceConnections>
     <bounds
         x="1110"
         y="504"
@@ -245,23 +227,6 @@
     <archimateElement
         xsi:type="archimate:Assessment"
         href="Assessment_id-99fe51e99e5d4f2da0121fb42ae444b9.xml#id-99fe51e99e5d4f2da0121fb42ae444b9"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-631cd8ec1a1e4dad9aa4929d5ae09ae0"
-      targetConnections="id-0c5aee64890946eb983ccec220634410 id-c8a38b4baf6a4e72b5cac22ff2c1f7cf"
-      fillColor="#80ffff">
-    <features
-        name="gradient"
-        value="0"/>
-    <bounds
-        x="1074"
-        y="732"
-        width="158"
-        height="78"/>
-    <archimateElement
-        xsi:type="archimate:Assessment"
-        href="Assessment_id-c289bcaeebab41989f7b475406692853.xml#id-c289bcaeebab41989f7b475406692853"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"

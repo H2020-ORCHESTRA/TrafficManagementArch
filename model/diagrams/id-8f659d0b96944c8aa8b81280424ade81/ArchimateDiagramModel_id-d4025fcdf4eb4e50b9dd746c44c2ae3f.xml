@@ -383,7 +383,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-525fe94a887a48be8b75786b93f3d608"
-      targetConnections="id-332839598440411ab7554a7211773a35 id-404cb1bec8834867b9cd2a062998e216"
+      targetConnections="id-404cb1bec8834867b9cd2a062998e216"
       fillColor="#80ffff">
     <bounds
         x="542"
@@ -491,29 +491,6 @@
         y="656"
         width="185"
         height="95"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-886e8352a9044612aaddb82aeada1a83"
-      fillColor="#80ffff">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-332839598440411ab7554a7211773a35"
-        font="1|Segoe UI|16.2|0|WINDOWS|1|-27|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-        source="id-886e8352a9044612aaddb82aeada1a83"
-        target="id-525fe94a887a48be8b75786b93f3d608">
-      <archimateRelationship
-          xsi:type="archimate:InfluenceRelationship"
-          href="InfluenceRelationship_id-fa0224bbe3064e56b1dbc3ef91aadc02.xml#id-fa0224bbe3064e56b1dbc3ef91aadc02"/>
-    </sourceConnections>
-    <bounds
-        x="669"
-        y="603"
-        width="120"
-        height="79"/>
-    <archimateElement
-        xsi:type="archimate:Assessment"
-        href="Assessment_id-f93ba84bc1bc428d808aefdcd1a25816.xml#id-f93ba84bc1bc428d808aefdcd1a25816"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
