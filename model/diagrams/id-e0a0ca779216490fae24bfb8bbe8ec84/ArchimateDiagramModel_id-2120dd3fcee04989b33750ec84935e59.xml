@@ -1,5 +1,19 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Network User Use cases"
     id="id-2120dd3fcee04989b33750ec84935e59"
-    viewpoint="application_usage"/>
+    viewpoint="application_usage">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7e9793c9a0ac4c23a4d6800c6636fd38">
+    <bounds
+        x="465"
+        y="248"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-c1d04d5b4f61489e81c80f628e486d6a.xml#id-c1d04d5b4f61489e81c80f628e486d6a"/>
+  </children>
+</archimate:ArchimateDiagramModel>
