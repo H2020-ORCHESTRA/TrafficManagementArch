@@ -724,9 +724,9 @@
           href="AssociationRelationship_id-9b7d3f65e7e3414d81641ec89c17981f.xml#id-9b7d3f65e7e3414d81641ec89c17981f"/>
     </sourceConnections>
     <bounds
-        x="401"
+        x="389"
         y="240"
-        width="120"
+        width="132"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Driver"
@@ -997,7 +997,7 @@
     <bounds
         x="732"
         y="799"
-        width="114"
+        width="121"
         height="95"/>
     <archimateElement
         xsi:type="archimate:Assessment"
