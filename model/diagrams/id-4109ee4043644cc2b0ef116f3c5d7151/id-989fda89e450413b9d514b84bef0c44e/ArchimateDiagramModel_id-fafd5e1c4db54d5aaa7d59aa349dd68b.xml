@@ -88,15 +88,6 @@
         value="0"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-7927ee782a2747c789951716c6e15104"
-        source="id-c6529fc8e52f4be3891e7a2215e9cf74"
-        target="id-3e3afb0d18fd40ab855df31f59dcaf56">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-605b5a0bf829479ab70ae8988a5f22a3.xml#id-605b5a0bf829479ab70ae8988a5f22a3"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-a9c27d5f54544f1dbec6f98c66ce0dec"
         source="id-c6529fc8e52f4be3891e7a2215e9cf74"
         target="id-0ac0e89aa89547af9c3c6410183d8163">
@@ -168,7 +159,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3e3afb0d18fd40ab855df31f59dcaf56"
-      targetConnections="id-432efed5583c4fba9d7c32377dea8879 id-7927ee782a2747c789951716c6e15104 id-9a066268bddb45d099e257b52c7467c2 id-3ce6ad43090c432b81f140be409d8d46 id-1c99fa30fea140a486cd2c76d2615183 id-c9a44de918e14fb1a6d2ee96351f80e4"
+      targetConnections="id-432efed5583c4fba9d7c32377dea8879 id-3ce6ad43090c432b81f140be409d8d46 id-1c99fa30fea140a486cd2c76d2615183 id-c9a44de918e14fb1a6d2ee96351f80e4"
       fillColor="#80ffff">
     <features
         name="gradient"
@@ -249,15 +240,6 @@
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-abdd76ec5fdb499bbfd262db8bee3f4e.xml#id-abdd76ec5fdb499bbfd262db8bee3f4e"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-9a066268bddb45d099e257b52c7467c2"
-        source="id-ce36ea78f5924a12bfda279423d49fc7"
-        target="id-3e3afb0d18fd40ab855df31f59dcaf56">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-ba028ba48981455da570a1bd72502039.xml#id-ba028ba48981455da570a1bd72502039"/>
     </sourceConnections>
     <bounds
         x="887"
