@@ -785,7 +785,7 @@
     <bounds
         x="255"
         y="592"
-        width="101"
+        width="106"
         height="87"/>
     <archimateElement
         xsi:type="archimate:Assessment"
@@ -888,7 +888,7 @@
     <bounds
         x="606"
         y="426"
-        width="120"
+        width="133"
         height="73"/>
     <archimateElement
         xsi:type="archimate:Assessment"
