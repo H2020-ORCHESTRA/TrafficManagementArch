@@ -6,7 +6,8 @@
     viewpoint="stakeholder">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-8635c3329ceb4198954d5139532e5756">
+      id="id-8635c3329ceb4198954d5139532e5756"
+      fillColor="#ccccff">
     <features
         name="gradient"
         value="0"/>

@@ -18,7 +18,10 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-54dc4a1b9c5d48608e956fcb8d9392be"
-        fillColor="#80ff80">
+        fillColor="#ccccff">
+      <features
+          name="gradient"
+          value="0"/>
       <bounds
           x="36"
           y="216"
@@ -31,7 +34,10 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-61de312e29bd4a649abeb3bc0d8ced54"
-        fillColor="#80ff80">
+        fillColor="#ccccff">
+      <features
+          name="gradient"
+          value="0"/>
       <bounds
           x="36"
           y="132"
@@ -43,7 +49,11 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-4a478f3eda89473eb57518926f818378">
+        id="id-4a478f3eda89473eb57518926f818378"
+        fillColor="#c0c0c0">
+      <features
+          name="gradient"
+          value="0"/>
       <bounds
           x="36"
           y="48"
@@ -56,7 +66,10 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-451440d14d8145dd9d40d20edadcea76"
-        fillColor="#80ff80">
+        fillColor="#ccccff">
+      <features
+          name="gradient"
+          value="0"/>
       <bounds
           x="36"
           y="300"
@@ -80,7 +93,11 @@
         height="327"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-23d629932e734aa38964361d4610f810">
+        id="id-23d629932e734aa38964361d4610f810"
+        fillColor="#c0c0c0">
+      <features
+          name="gradient"
+          value="0"/>
       <bounds
           x="24"
           y="48"
@@ -92,7 +109,11 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-5eba5013e4fc4237b207b60cf76b3743">
+        id="id-5eba5013e4fc4237b207b60cf76b3743"
+        fillColor="#c0c0c0">
+      <features
+          name="gradient"
+          value="0"/>
       <bounds
           x="24"
           y="144"
@@ -105,7 +126,10 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-0ab00bde13694ab299d04e6a2ed5867d"
-        fillColor="#80ff80">
+        fillColor="#ccccff">
+      <features
+          name="gradient"
+          value="0"/>
       <bounds
           x="24"
           y="228"
@@ -129,7 +153,11 @@
         height="409"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-34d02b97b5fb4d938e8d6bc9596ed9f3">
+        id="id-34d02b97b5fb4d938e8d6bc9596ed9f3"
+        fillColor="#c0c0c0">
+      <features
+          name="gradient"
+          value="0"/>
       <bounds
           x="36"
           y="36"
@@ -141,7 +169,11 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-fd0b1a7e366e45b991045e4b40cac339">
+        id="id-fd0b1a7e366e45b991045e4b40cac339"
+        fillColor="#c0c0c0">
+      <features
+          name="gradient"
+          value="0"/>
       <bounds
           x="36"
           y="108"
@@ -153,7 +185,11 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-6a583bbc7392400fb27d557c2aa82b99">
+        id="id-6a583bbc7392400fb27d557c2aa82b99"
+        fillColor="#c0c0c0">
+      <features
+          name="gradient"
+          value="0"/>
       <bounds
           x="36"
           y="180"
@@ -165,7 +201,11 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-496df567949a42899961b25d5b77a410">
+        id="id-496df567949a42899961b25d5b77a410"
+        fillColor="#c0c0c0">
+      <features
+          name="gradient"
+          value="0"/>
       <bounds
           x="36"
           y="264"
@@ -177,7 +217,11 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-6ef7cd8a495046ad9c837497ab9c9dfb">
+        id="id-6ef7cd8a495046ad9c837497ab9c9dfb"
+        fillColor="#c0c0c0">
+      <features
+          name="gradient"
+          value="0"/>
       <bounds
           x="36"
           y="336"
