@@ -176,7 +176,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d6ba757f02b2461fbf03765653b82885"
-      targetConnections="id-75c005c9f38249759548e20f6a3e6a18 id-5d28a680c3554bbfb0204cab76ce36ee"
+      targetConnections="id-5d28a680c3554bbfb0204cab76ce36ee"
       fillColor="#80ffff">
     <features
         name="gradient"
@@ -219,32 +219,6 @@
         y="32"
         width="185"
         height="110"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-2e40657c1e694290a3ec976fbaaee6c8"
-      fillColor="#80ffff">
-    <features
-        name="gradient"
-        value="0"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-75c005c9f38249759548e20f6a3e6a18"
-        font="1|Segoe UI|16.2|0|WINDOWS|1|-27|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-        source="id-2e40657c1e694290a3ec976fbaaee6c8"
-        target="id-d6ba757f02b2461fbf03765653b82885">
-      <archimateRelationship
-          xsi:type="archimate:InfluenceRelationship"
-          href="InfluenceRelationship_id-a841dedf97a64876a045841d0f0ea994.xml#id-a841dedf97a64876a045841d0f0ea994"/>
-    </sourceConnections>
-    <bounds
-        x="326"
-        y="746"
-        width="168"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Assessment"
-        href="Assessment_id-d9e641e44cc747b48dd5570938658646.xml#id-d9e641e44cc747b48dd5570938658646"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
