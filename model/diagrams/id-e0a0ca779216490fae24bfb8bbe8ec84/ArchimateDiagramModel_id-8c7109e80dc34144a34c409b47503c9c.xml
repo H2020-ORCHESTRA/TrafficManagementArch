@@ -1,5 +1,19 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Fleet Operator Use cases"
+    name="Fleet Operator Functionality"
     id="id-8c7109e80dc34144a34c409b47503c9c"
-    viewpoint="application_usage"/>
+    viewpoint="application_usage">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-de2bd40082f1422490880bbcec854b34">
+    <bounds
+        x="125"
+        y="360"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-10771c673f6149bd9343f91317786f78.xml#id-10771c673f6149bd9343f91317786f78"/>
+  </children>
+</archimate:ArchimateDiagramModel>

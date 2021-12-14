@@ -1,5 +1,19 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Transport Service Provider Use cases"
+    name="Transport Service Provider Functionality"
     id="id-b206ae0fdd6c40ba9f46a35a3562ad1d"
-    viewpoint="application_usage"/>
+    viewpoint="application_usage">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-309633a656bf4efda3b05c4d387ab85b">
+    <bounds
+        x="124"
+        y="296"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-eff15aa1e6ec4314a99ea14358180189.xml#id-eff15aa1e6ec4314a99ea14358180189"/>
+  </children>
+</archimate:ArchimateDiagramModel>

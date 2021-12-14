@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Network User Use cases"
+    name="Network User Functionality"
     id="id-2120dd3fcee04989b33750ec84935e59">
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -567,5 +567,17 @@
     <archimateElement
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-3dada96e1d0447998ac09baa97e4a48f.xml#id-3dada96e1d0447998ac09baa97e4a48f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-98f763ac37ae4fad8cbe5df5ffcc3fb5">
+    <bounds
+        x="72"
+        y="328"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-e89cd4fe6b4f457d9aad6d23390157d2.xml#id-e89cd4fe6b4f457d9aad6d23390157d2"/>
   </children>
 </archimate:ArchimateDiagramModel>
