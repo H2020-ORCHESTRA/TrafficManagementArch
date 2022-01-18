@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Demand requests"
+    id="id-b2153e16567b4bc69d612602121a1150"
+    documentation="Can include a time range within which the transport should occour (departure and arrival time), price preferences, priority requests, etc. The request should include information about the nature of the transport, e.g. person transport, dangerous goods, goods with special needs (hot / cold / fragile) ...&#xA;"/>

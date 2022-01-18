@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Permissions and directions for planned transports"
+    id="id-502ac72eaf914afca1ce18088dfc3768"
+    documentation="Includes timeslot, where to drive, etc. corresponding to the demand requests."/>

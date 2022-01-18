@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deviations for planned transport"
+    id="id-e39b41f31c444211a212a9896663087c"
+    documentation="Handle deviations to planned transport before the operation has started, triggered either by the traffic orchestrator or fleet operator. Includes details on where and what the deviation is about (updated permissions), or whether new demand requests must be requested."/>
