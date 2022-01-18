@@ -82,8 +82,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3709f28adec2468e862fa8017a4c5fcf">
     <bounds
-        x="840"
-        y="480"
+        x="828"
+        y="300"
         width="120"
         height="55"/>
     <archimateElement
@@ -97,7 +97,7 @@
       content="Traffic Orchestration&#xA;x Transport demand management&#xA;x Demand capacity balancing&#xA;x Coordination with other networks and modes&#xA;- Resilience&#xA;&#xA;Data Management &amp; Governance&#xA;- Traffic related data&#xA;- Traffic information sharing&#xA;&#xA;&#xA;&#xA;">
     <bounds
         x="804"
-        y="288"
+        y="108"
         width="312"
         height="167"/>
   </children>
@@ -107,8 +107,8 @@
       textAlignment="1"
       content="Network Management&#xA;- Smart infrastructure&#xA;- Network information management">
     <bounds
-        x="804"
-        y="180"
+        x="544"
+        y="600"
         width="297"
         height="83"/>
   </children>
@@ -222,10 +222,22 @@
           id="id-f45f0dc17c034a9d83a8b87ecb4f37ab"
           targetConnections="id-9af2d4a1e8d744f6bf05dcc904fc1143">
         <bounds
-            x="24"
+            x="12"
             y="36"
-            width="120"
+            width="145"
             height="121"/>
+        <children
+            xsi:type="archimate:DiagramModelReference"
+            id="id-6bdbe5aba24f42239493d83a10358fa2">
+          <bounds
+              x="12"
+              y="60"
+              width="120"
+              height="55"/>
+          <referencedModel
+              xsi:type="archimate:ArchimateDiagramModel"
+              href="ArchimateDiagramModel_id-463f8bfe9f9f4e8f8d6ed87be52f87f4.xml#id-463f8bfe9f9f4e8f8d6ed87be52f87f4"/>
+        </children>
         <archimateElement
             xsi:type="archimate:BusinessService"
             href="BusinessService_id-5787b56e65d947f09c09fbb3dbdcfecb.xml#id-5787b56e65d947f09c09fbb3dbdcfecb"/>
