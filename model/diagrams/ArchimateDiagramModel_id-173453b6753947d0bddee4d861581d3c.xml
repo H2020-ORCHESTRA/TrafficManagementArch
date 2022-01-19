@@ -11,8 +11,8 @@
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
-        x="204"
-        y="184"
+        x="48"
+        y="72"
         width="193"
         height="374"/>
     <children
@@ -87,8 +87,8 @@
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
-        x="480"
-        y="184"
+        x="324"
+        y="72"
         width="188"
         height="327"/>
     <children
@@ -147,8 +147,8 @@
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
-        x="744"
-        y="184"
+        x="588"
+        y="72"
         width="205"
         height="409"/>
     <children
