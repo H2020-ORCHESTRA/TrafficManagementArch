@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Zones "
+    id="id-fb06127fffd24fb58f47d21d5e8cccc0"
+    documentation="Includes creating, deleting, and updating different types of zones, and setting geofences, network resources and segments covered by the zones"/>

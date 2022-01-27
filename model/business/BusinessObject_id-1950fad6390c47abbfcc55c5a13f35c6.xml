@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Regulations"
+    id="id-1950fad6390c47abbfcc55c5a13f35c6"
+    documentation="Speed, limitations, closed network segments (roads, ...), etc. Includes zones, arbitration models and measure conditions"/>

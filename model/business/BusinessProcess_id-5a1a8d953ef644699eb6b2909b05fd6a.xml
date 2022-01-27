@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Use Traffic Situation Dashboard"
+    id="id-5a1a8d953ef644699eb6b2909b05fd6a"
+    documentation="Use aggregated traffic situation information, e.g. through visualizations, alarms, etc."/>
