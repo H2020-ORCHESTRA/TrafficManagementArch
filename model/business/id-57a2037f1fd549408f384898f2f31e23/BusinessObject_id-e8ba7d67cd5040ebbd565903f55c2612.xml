@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Action Plan"
-    id="id-e8ba7d67cd5040ebbd565903f55c2612"/>
+    id="id-e8ba7d67cd5040ebbd565903f55c2612"
+    documentation="Overview of actions to be taken to orchestrate the traffic. When relevant a time schedule is provided."/>
