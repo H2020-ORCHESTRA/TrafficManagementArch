@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Traffic Orchestration Policy and Strategy"
-    id="id-69a892911d7a4f70acfde1d654690461"/>
+    id="id-69a892911d7a4f70acfde1d654690461"
+    documentation="Strategies influencing traffic orchestrator / traffic management&#xA;- Economical incentives&#xA;- Access&#xA;- Priority&#xA;- Share information&#xA;- Enforcement&#xA;In addition, strategies may also adress physical infrastructucture etc."/>
