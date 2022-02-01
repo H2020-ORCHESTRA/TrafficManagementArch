@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Operation Plan"
-    id="id-173f245fe1c14b2687bcac7332c37566"/>
+    id="id-173f245fe1c14b2687bcac7332c37566"
+    documentation="Detailed plan on current and upcomming transport operations. This may be information on entries and exits in the area of governance, and other planned events. "/>
