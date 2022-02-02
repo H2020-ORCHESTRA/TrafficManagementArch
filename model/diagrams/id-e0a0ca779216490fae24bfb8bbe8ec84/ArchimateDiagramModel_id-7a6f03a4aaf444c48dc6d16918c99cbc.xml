@@ -535,7 +535,19 @@
             x="84"
             y="204"
             width="157"
-            height="85"/>
+            height="97"/>
+        <children
+            xsi:type="archimate:DiagramModelReference"
+            id="id-470542daf114475aa9d4ffb0e128fc43">
+          <bounds
+              x="24"
+              y="36"
+              width="120"
+              height="55"/>
+          <referencedModel
+              xsi:type="archimate:ArchimateDiagramModel"
+              href="ArchimateDiagramModel_id-375ae0e542b74e91a0f784d35f9a8b1a.xml#id-375ae0e542b74e91a0f784d35f9a8b1a"/>
+        </children>
         <archimateElement
             xsi:type="archimate:BusinessService"
             href="BusinessService_id-014e3c82971a4a44b5b2f8d8f4ffe486.xml#id-014e3c82971a4a44b5b2f8d8f4ffe486"/>

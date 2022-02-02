@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="inform about changes for transport"
+    id="id-34e502f981b14027bc17260850a6a98c">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-846c13cc7b1b47d088f0903490bbb53d.xml#id-846c13cc7b1b47d088f0903490bbb53d"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-014e3c82971a4a44b5b2f8d8f4ffe486.xml#id-014e3c82971a4a44b5b2f8d8f4ffe486"/>
+</archimate:FlowRelationship>

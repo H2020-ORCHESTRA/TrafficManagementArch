@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Traffic Situation"
-    id="id-c634000ef81e4a398c2bd54024792ff4"/>
+    id="id-c634000ef81e4a398c2bd54024792ff4"
+    documentation="This is the overall business object containing information about the dynamic traffic situation. The following business objects are included:&#xA;&#xA;Traffic flow: This is information about the current and predicted traffic density and speed.&#xA;Local capacity usage: This is information about the current and foreseen use of the network capacity and will tell whether there is available capacity or a lack of capacity.&#xA;Neighbouring network capacity: This is information about the current and foreseen use of the network capacity in neighbouring modes and networks."/>
