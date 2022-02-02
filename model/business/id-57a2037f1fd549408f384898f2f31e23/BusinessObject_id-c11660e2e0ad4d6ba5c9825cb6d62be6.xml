@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Transport Operations"
     id="id-c11660e2e0ad4d6ba5c9825cb6d62be6"
-    documentation="Includes current and planned transport operations in your own network, and also transport operations (being) transfered from other networks."/>
+    documentation="Includes current and planned transport operations in your own network, and also transport operations (being) transfered from other networks. Each operation can have status requested, approved, rejected, transferred, completed.  "/>

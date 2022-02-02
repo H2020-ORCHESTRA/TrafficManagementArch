@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Operation Plan"
     id="id-173f245fe1c14b2687bcac7332c37566"
-    documentation="Detailed plan on current and upcomming transport operations. This may be information on entries and exits in the area of governance, and other planned events. "/>
+    documentation="This is the plan addressing current and upcomming scheduled traffic events in the area of governance related to approved transport operations. This may for example be entries/exits of transport means to/from the area and other planned actions taken by the transport means (waiting and other stops, loading/unloading at waypoints, etc.).&#xA;&#xA;The operation plan will link to the transport operations business objects where more details on the operations can be found."/>
