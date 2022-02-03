@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transport User"
+    id="id-9faca8d222af456bbbac44cde386fa00"
+    documentation="The Transport User role representing anyone that searches for transport services; books such services and follows up the execution of the services. Thus, the Transport User provides detailed information about the transport demand to the Transport Service Provider. "/>
