@@ -1,8 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-b5b03220780d470fb190b1326a142fa4"
-    accessType="3">
+    id="id-b5b03220780d470fb190b1326a142fa4">
   <source
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_id-7ee8263746554ec7b617a165377294cd.xml#id-7ee8263746554ec7b617a165377294cd"/>
