@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Transport Demand Management Process"
+    name="Transport Demand Management"
     id="id-463f8bfe9f9f4e8f8d6ed87be52f87f4">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

@@ -4,8 +4,8 @@
     id="id-ea6db1d4bd03432d9b76b58d413718ae"
     accessType="1">
   <source
-      xsi:type="archimate:BusinessProcess"
-      href="BusinessProcess_id-86f55a781e60418a99a1673f78125c35.xml#id-86f55a781e60418a99a1673f78125c35"/>
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-73e7726d7233467ba81ee23d35b2de2f.xml#id-73e7726d7233467ba81ee23d35b2de2f"/>
   <target
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-c634000ef81e4a398c2bd54024792ff4.xml#id-c634000ef81e4a398c2bd54024792ff4"/>
