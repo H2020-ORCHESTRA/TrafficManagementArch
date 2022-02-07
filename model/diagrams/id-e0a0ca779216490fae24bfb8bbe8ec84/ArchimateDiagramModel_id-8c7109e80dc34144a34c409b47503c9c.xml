@@ -53,15 +53,6 @@
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-6532a8f8d7234bf4bf26d277c76dc068.xml#id-6532a8f8d7234bf4bf26d277c76dc068"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-29fd2818ad5a4798880d95df097ad0b6"
-        source="id-de2bd40082f1422490880bbcec854b34"
-        target="id-d8a67be68fd248248d2c24f635380ae3">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-bf5ab88d5adc4546a29ad8585814bebf.xml#id-bf5ab88d5adc4546a29ad8585814bebf"/>
-    </sourceConnections>
     <bounds
         x="144"
         y="288"
@@ -81,19 +72,6 @@
         y="57"
         width="490"
         height="568"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-d8a67be68fd248248d2c24f635380ae3"
-        targetConnections="id-29fd2818ad5a4798880d95df097ad0b6">
-      <bounds
-          x="120"
-          y="24"
-          width="120"
-          height="73"/>
-      <archimateElement
-          xsi:type="archimate:BusinessService"
-          href="BusinessService_id-bf6d93111b3b49a3b4cf450602e4eb4d.xml#id-bf6d93111b3b49a3b4cf450602e4eb4d"/>
-    </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-0cc902709f1f41b781ea66b7fd088141">
@@ -307,8 +285,8 @@
       textAlignment="1"
       content="Update to show who is providing and receiving service&#xA;">
     <bounds
-        x="8"
-        y="342"
+        x="120"
+        y="624"
         width="185"
         height="80"/>
   </children>
