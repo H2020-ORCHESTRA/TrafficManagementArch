@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Request Transport Operation in Network"
+    id="id-8061afddd62f4599bd2d3afed8f53cfd"
+    documentation="Request a new transport operation, or updates to an existing operation, in the network&#xA;&#xA;Can include a time range within which the transport should occour (departure and arrival time), price preferences, priority requests, capacity information, etc. Includes requested route, or at least start and end point. The request should include information about the nature of the transport, e.g. person transport, dangerous goods, goods with special needs (hot / cold / fragile). &#xA;Also identifies type of transport, e.g. emergency service, road maintenance, ...&#xA;"/>
