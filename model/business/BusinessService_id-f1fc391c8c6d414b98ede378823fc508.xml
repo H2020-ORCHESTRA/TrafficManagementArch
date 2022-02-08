@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transfer"
+    id="id-f1fc391c8c6d414b98ede378823fc508"
+    documentation="Transfer to next leg of operation. Takes place at a transfer node."/>
