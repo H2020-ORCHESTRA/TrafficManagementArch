@@ -25,7 +25,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-8586b3504aa24639a9cbfd30225c7b3c"
         targetConnections="id-fb040614c0fd4cf69c59333a39ce8b78"
-        textAlignment="1">
+        textAlignment="1"
+        fillColor="#ffe6b5">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-cb502f4ec0b742a79f7a01cbf4945147"

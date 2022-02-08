@@ -24,7 +24,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-1bce91f8bd884e618e1efb73f8476973"
-        targetConnections="id-2c807219381441c6ae7fcc26575f4ea2">
+        targetConnections="id-2c807219381441c6ae7fcc26575f4ea2"
+        fillColor="#ffe5b5">
       <bounds
           x="60"
           y="36"
@@ -74,7 +75,7 @@
           href="AssignmentRelationship_id-d033f91b397b4718a6eca9ca34a7f590.xml#id-d033f91b397b4718a6eca9ca34a7f590"/>
     </sourceConnections>
     <bounds
-        x="264"
+        x="276"
         y="72"
         width="193"
         height="109"/>
@@ -118,7 +119,7 @@
           href="AssignmentRelationship_id-5b031c2d0f2340baa1158c377c5357b4.xml#id-5b031c2d0f2340baa1158c377c5357b4"/>
     </sourceConnections>
     <bounds
-        x="468"
+        x="492"
         y="72"
         width="193"
         height="109"/>

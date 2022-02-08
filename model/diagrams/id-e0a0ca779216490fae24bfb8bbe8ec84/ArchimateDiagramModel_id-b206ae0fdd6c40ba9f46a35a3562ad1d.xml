@@ -142,7 +142,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-309633a656bf4efda3b05c4d387ab85b"
       targetConnections="id-0accf90471754b6c97e61c4a8989355b"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#ffe5b5">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-cad56d2dc9e1403aa4719afb35425cb3"
