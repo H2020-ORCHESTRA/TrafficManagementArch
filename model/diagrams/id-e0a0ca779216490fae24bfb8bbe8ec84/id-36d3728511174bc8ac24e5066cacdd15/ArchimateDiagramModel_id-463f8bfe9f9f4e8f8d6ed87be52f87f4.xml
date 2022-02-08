@@ -43,7 +43,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-67e7f057c77f4d298ae10dc5ec124e68"
         targetConnections="id-541123bb8db9404d8bcb313325e173cc id-1b20e1853407451a9f7a7e190ccfa803 id-1e84114a652944e4b038cea7a81d1db4"
-        textAlignment="1">
+        textAlignment="1"
+        fillColor="#ffe5b5">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-89c66a719758431ca544357e8c8fb2e4"

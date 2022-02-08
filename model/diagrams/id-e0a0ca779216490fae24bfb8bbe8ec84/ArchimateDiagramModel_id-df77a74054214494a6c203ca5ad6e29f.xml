@@ -6,7 +6,8 @@
     viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-7b55457967a946d5b8b818fb3adbb421">
+      id="id-7b55457967a946d5b8b818fb3adbb421"
+      fillColor="#ffe5b5">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-32caa99b01804f71ae1502cef0661fe3"
