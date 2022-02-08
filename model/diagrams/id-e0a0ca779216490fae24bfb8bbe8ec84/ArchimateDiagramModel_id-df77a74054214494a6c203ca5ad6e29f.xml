@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Fleet Operator Functionality SINTEF"
+    name="Fleet Operator Functionality"
     id="id-df77a74054214494a6c203ca5ad6e29f"
     viewpoint="business_process_cooperation">
   <children
@@ -55,7 +55,7 @@
     </sourceConnections>
     <bounds
         x="84"
-        y="48"
+        y="96"
         width="169"
         height="241"/>
     <children
@@ -113,7 +113,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-60bbc7885ff244359d4ebd084fe5f11f"
-      name="System of interest"
+      name="System of Interest"
       textAlignment="1">
     <bounds
         x="300"
@@ -194,7 +194,7 @@
         </sourceConnections>
         <bounds
             x="36"
-            y="225"
+            y="240"
             width="157"
             height="55"/>
         <archimateElement
@@ -216,7 +216,7 @@
         </sourceConnections>
         <bounds
             x="36"
-            y="141"
+            y="144"
             width="157"
             height="55"/>
         <archimateElement
@@ -234,7 +234,7 @@
       targetConnections="id-f8776edd5fc44e2c80ebe2300f38b63a">
     <bounds
         x="96"
-        y="348"
+        y="378"
         width="120"
         height="55"/>
     <archimateElement
@@ -300,9 +300,9 @@
     </sourceConnections>
     <bounds
         x="660"
-        y="60"
+        y="72"
         width="241"
-        height="373"/>
+        height="361"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-f199e675d7504a938d250cd62bf6f413"
@@ -312,6 +312,11 @@
           id="id-224acbe92c784f3299ea44835e4d97df"
           source="id-f199e675d7504a938d250cd62bf6f413"
           target="id-6c9fb19cc2604a22a3c957c693a05844">
+        <bendpoints
+            startX="-150"
+            startY="42"
+            endX="186"
+            endY="-63"/>
         <archimateRelationship
             xsi:type="archimate:FlowRelationship"
             href="FlowRelationship_id-51ad5dc3652a459e98f88b6a33900eb5.xml#id-51ad5dc3652a459e98f88b6a33900eb5"/>
@@ -327,7 +332,7 @@
       </sourceConnections>
       <bounds
           x="36"
-          y="24"
+          y="36"
           width="181"
           height="109"/>
       <children
@@ -352,9 +357,9 @@
         targetConnections="id-0bca6c37309b4588ac0bc1dccd0d9f49 id-a8178ff87fa544c784b981964c4e0478 id-29821e55ae9b4aca83bc9f71949c67bf">
       <bounds
           x="36"
-          y="240"
+          y="252"
           width="181"
-          height="109"/>
+          height="97"/>
       <children
           xsi:type="archimate:DiagramModelReference"
           id="id-5a485d903abf463daba05283e26a69a9">
@@ -389,13 +394,18 @@
           id="id-c8fefd984c7e4d98a4ac554dfc7e38db"
           source="id-51f5bd585202445a851cb6226084a03d"
           target="id-56638a771678433d8802c5e6369715f3">
+        <bendpoints
+            startX="-150"
+            startY="-30"
+            endX="186"
+            endY="60"/>
         <archimateRelationship
             xsi:type="archimate:FlowRelationship"
             href="FlowRelationship_id-99b77efe14c64515aa2e439cd7c75735.xml#id-99b77efe14c64515aa2e439cd7c75735"/>
       </sourceConnections>
       <bounds
           x="36"
-          y="144"
+          y="156"
           width="181"
           height="85"/>
       <children
