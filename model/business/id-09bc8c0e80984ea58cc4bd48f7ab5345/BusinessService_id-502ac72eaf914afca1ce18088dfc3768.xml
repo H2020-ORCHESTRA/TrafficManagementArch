@@ -1,5 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Permissions and directions for planned transports"
-    id="id-502ac72eaf914afca1ce18088dfc3768"
-    documentation="Includes timeslot, where to drive, etc. corresponding to the demand requests.&#xA;&#xA;Transport Operation description from D3.1: This is overall information on schedules, route, type of transport, total capacity, the capacity used (e.g. number of passengers and load factor), current location (when the operation has started), etc."/>

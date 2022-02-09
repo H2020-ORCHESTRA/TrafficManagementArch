@@ -117,7 +117,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-2dd1e201e63948e880ee6ae72a0d91ce"
-      name="System of interest"
+      name="System of Interest"
       textAlignment="1">
     <bounds
         x="204"
