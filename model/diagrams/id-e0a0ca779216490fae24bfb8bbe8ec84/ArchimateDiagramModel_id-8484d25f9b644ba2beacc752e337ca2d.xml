@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Network User Input from SINTEF"
+    name="Network User Functionality"
     id="id-8484d25f9b644ba2beacc752e337ca2d">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
