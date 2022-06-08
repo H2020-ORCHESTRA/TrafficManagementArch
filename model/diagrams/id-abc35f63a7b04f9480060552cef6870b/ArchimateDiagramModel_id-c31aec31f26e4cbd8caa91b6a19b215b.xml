@@ -83,8 +83,8 @@
           href="AccessRelationship_id-7c01e718a3e44f0287a653cbb30ad399.xml#id-7c01e718a3e44f0287a653cbb30ad399"/>
     </sourceConnections>
     <bounds
-        x="629"
-        y="383"
+        x="473"
+        y="321"
         width="120"
         height="55"/>
     <archimateElement
@@ -96,8 +96,8 @@
       id="id-85b0da1f12574509acd5f5c7e54ace61"
       targetConnections="id-52ade7e204ca4a7083697cd9744f682a id-57f2a2d48fe143fab064d25cb5d32378">
     <bounds
-        x="636"
-        y="504"
+        x="480"
+        y="442"
         width="120"
         height="55"/>
     <archimateElement
@@ -117,8 +117,8 @@
           href="FlowRelationship_id-fce380da1b0d4796b73af9d07f6d5255.xml#id-fce380da1b0d4796b73af9d07f6d5255"/>
     </sourceConnections>
     <bounds
-        x="636"
-        y="158"
+        x="480"
+        y="96"
         width="120"
         height="55"/>
     <archimateElement
@@ -130,8 +130,8 @@
       id="id-ee20311b6fd2496bbfc14a0638e6c64a"
       targetConnections="id-0ea7542bada94957abb17a9fed4a7e49">
     <bounds
-        x="636"
-        y="264"
+        x="480"
+        y="202"
         width="120"
         height="55"/>
     <archimateElement

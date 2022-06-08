@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Traffic Orchestrator Goals mkn"
+    name="Traffic Orchestrator Goals"
     id="id-b83f7026c37d4c629d4e2d311505a516">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
