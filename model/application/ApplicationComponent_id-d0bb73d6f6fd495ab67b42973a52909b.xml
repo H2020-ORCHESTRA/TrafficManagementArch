@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Multimodal travel information guidance"
-    id="id-d0bb73d6f6fd495ab67b42973a52909b"/>
+    id="id-d0bb73d6f6fd495ab67b42973a52909b"
+    documentation="Provides support to the transport services provider to re-direct traffic while retaining system optimality. A Tradable credit scheme could also be deployed here as an incentive-based policy to battle congestion&#xA;&#xA;A traffic simulator software MATSim/Aimsun will be used to model the agents.&#xA;&#xA;"/>

@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Matching of electric car-sharing passengers "
-    id="id-b957626f365c4bfdab7506f5f60a463d"/>
+    id="id-b957626f365c4bfdab7506f5f60a463d"
+    documentation="Electric car-sharing is an available resource for passengers travelling to Malpensa Airport. However, in case of a disruption, e.g., maintenance work in the railway network, demand for use can exceed supply. A bundling algorithm can determine possible matches of users and prioritize higher occupancy of cars, to accommodate demand.&#xA;"/>

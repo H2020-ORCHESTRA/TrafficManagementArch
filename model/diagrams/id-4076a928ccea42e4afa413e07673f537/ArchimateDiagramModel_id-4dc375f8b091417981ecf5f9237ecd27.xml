@@ -11,8 +11,8 @@
       textAlignment="1"
       fillColor="#d2d7d7">
     <bounds
-        x="1113"
-        y="256"
+        x="756"
+        y="504"
         width="268"
         height="261"/>
     <children
@@ -66,8 +66,8 @@
       textAlignment="1"
       fillColor="#d2d7d7">
     <bounds
-        x="849"
-        y="569"
+        x="276"
+        y="648"
         width="400"
         height="140"/>
     <children
@@ -107,7 +107,7 @@
       textAlignment="1"
       fillColor="#d2d7d7">
     <bounds
-        x="804"
+        x="684"
         y="112"
         width="253"
         height="347"/>
@@ -176,9 +176,9 @@
       textAlignment="1"
       fillColor="#d2d7d7">
     <bounds
-        x="372"
-        y="84"
-        width="325"
+        x="360"
+        y="130"
+        width="253"
         height="387"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -233,7 +233,7 @@
     <bounds
         x="12"
         y="112"
-        width="336"
+        width="265"
         height="474"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"

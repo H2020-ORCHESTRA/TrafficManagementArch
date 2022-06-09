@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Sharing Infrastructure"
-    id="id-6791b0409f914d2d845d9e7fa441904a"/>
+    id="id-6791b0409f914d2d845d9e7fa441904a"
+    documentation="Data sharing infrastructure based on the ledger, used to share immutable data between registered tools and stakeholders. &#xA;The use of IOTA Identities permits stakeholders to register their data tools and thus allows other parties to verify the data source. &#xA;&#xA;The functionalities are accessible using REST APIs for registration, authentication and authorisation, and writing and reading data. A Kafka connector is also provided to subscribe to specific topics and automatically retrieve data&#xA;&#xA;Use in LL and sim:&#xA;Different stakeholders can share data with optimisation tools. The outcome of optimisation tools is shared with the Traffic Orchestrator. This way, stakeholders are accountable for the data they share. and can control the access from authorised optimisation tools. In the same way, optimisation tools can be accountable for the decision taken by the Traffic Orchestrator. &#xA;"/>

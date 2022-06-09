@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Network Representations for Use-Cases "
-    id="id-29e8a2eb866947e294008ea5719ca54b"/>
+    id="id-29e8a2eb866947e294008ea5719ca54b"
+    documentation="The designated areas of influence/interest for the examined use cases will be developed.&#xA;Used in the Simulation for both Milano and Heroya scenarions.&#xA;"/>

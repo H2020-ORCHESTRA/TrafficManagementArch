@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Booking System for truck appointments "
-    id="id-062d67da3eb74fe7bbf1c6f8ad18d4fc"/>
+    id="id-062d67da3eb74fe7bbf1c6f8ad18d4fc"
+    documentation="Information system designed for trucking companies to state intentions and preferred arrival times for access to the Herøya Port. &#xA;&#xA;Use in LL and sim:&#xA;Used in the Simulation. Demand will be generated stochastically, but will enforce the structure and guidelines of the proposed functionality.&#xA;&#xA;"/>

@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Auction Mechanism for conflict resolution "
-    id="id-681dd8f318c243928349289ee54b0508"/>
+    id="id-681dd8f318c243928349289ee54b0508"
+    documentation="Distributed single-round auction to arbitrate in case of conflicting trucks in congested time-windows and determine port access in merit-based manner. The auction will use the tradable credit as currency.&#xA;&#xA;Use in LL and sim:&#xA;The distributed auction will act as a tool to escape infeasibility between conflicting truck, competing for the same slots, in the block-based scheduler&#xA;"/>

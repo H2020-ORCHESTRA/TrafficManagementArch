@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Situations and Geofencing data sharing "
-    id="id-0d9342fffc8946488c7be730f15f6d81"/>
+    id="id-0d9342fffc8946488c7be730f15f6d81"
+    documentation="Road owners and regulators need to inform the road users on deviating Situations on the roads. That could be that a road is closed or road work is ongoing. Geographic areas (geofences) could also be temporarily regulated, for instance extra rush hour cost, or some benefits of using zero-emitting transport in an area.&#xA;&#xA;Situations and Geofences defined in an area could be shared to 3rd party actors.&#xA;&#xA;Use in LL and sim:&#xA;Used in Herøya Living Lab to handle deviations for Fleet Management System.&#xA;"/>

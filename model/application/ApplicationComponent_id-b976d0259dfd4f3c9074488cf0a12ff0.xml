@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Market design for the tradable credit scheme "
-    id="id-b976d0259dfd4f3c9074488cf0a12ff0"/>
+    id="id-b976d0259dfd4f3c9074488cf0a12ff0"
+    documentation="Auction mechanism to enable regulated trading between companies for the tradable credit. Ausubel Auctions perfectly match supply and demand and is an efficient auction which has sincere bidding as the dominant strategy. Price discovery of the tradable credit will be achieved; hence the port operator will have a more accurate picture of the Value-of-Time of incoming trucks."/>

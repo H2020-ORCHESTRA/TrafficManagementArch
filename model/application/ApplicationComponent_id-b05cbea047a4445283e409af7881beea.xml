@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Block-based scheduler for truck arrival smoothing "
-    id="id-b05cbea047a4445283e409af7881beea"/>
+    id="id-b05cbea047a4445283e409af7881beea"
+    documentation="Scheduling Algorithm based on Mixed-Integer Linear Programming to orchestrate and smooth arrival of incoming trucks around time windows, based on their flexibility (time windows of availability inside the day). Contributes to truck arrival smoothing without directly interfering with operational plans of trucking companies. Congestion at the gate and inside the port area is expected to decrease by this measure of capacity balancing.&#xA;&#xA;Use in LL and sim:&#xA;Used in the simulation. The scheduling algorithm will provide the static plans for different trucks, i.e., the expected generated traffic if no disruptions to the system occur, based on predicted demand.&#xA;"/>

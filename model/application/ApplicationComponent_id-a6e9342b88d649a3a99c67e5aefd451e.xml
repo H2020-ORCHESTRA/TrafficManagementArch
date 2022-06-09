@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Transport ordering tool "
-    id="id-a6e9342b88d649a3a99c67e5aefd451e"/>
+    id="id-a6e9342b88d649a3a99c67e5aefd451e"
+    documentation="Truck drivers send requests for allocating a transport escort vehicle. Input will be pick-up or arrival time, from-to position and some kind of indication of priority or flexibility of the transport.  A quote is received and accepted by the driver as an agreed order. The status of the order can be monitored by the truck driver. If needed the order can be cancelled by the driver.&#xA;&#xA;An app that can be used to place orders for transport by the truck driver. The allocated order can be monitored by the truck driver to see any change or delays in real time.&#xA;&#xA;Used in Herøya Living Lab as a tool for ordering escort inside the industrial park.&#xA;"/>
