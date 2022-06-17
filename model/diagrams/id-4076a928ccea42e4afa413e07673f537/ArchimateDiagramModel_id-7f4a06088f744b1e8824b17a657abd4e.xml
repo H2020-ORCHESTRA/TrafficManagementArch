@@ -134,7 +134,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-9acbdd7d953b4f049f56d6eef78a6dda"
-          targetConnections="id-fc9de7fd267c4f1aa2836e80fb852821 id-a74acc27e8bb41ff914f4116c670bdbf id-473133d93d2043fab62c75cef0e3b98b">
+          targetConnections="id-fc9de7fd267c4f1aa2836e80fb852821 id-a74acc27e8bb41ff914f4116c670bdbf">
         <bounds
             x="384"
             y="36"
@@ -689,7 +689,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-c60ef4638e77413e8344be6e1c19a28e"
-          targetConnections="id-e73274569ceb42f0aa5e907d2d3d5b5c id-6dbbdb1dee7248ccb55831d9abe71884 id-6f103ac34bd4430ca15f48fd1a699e90">
+          targetConnections="id-e73274569ceb42f0aa5e907d2d3d5b5c id-6dbbdb1dee7248ccb55831d9abe71884">
         <bounds
             x="36"
             y="240"
@@ -1123,26 +1123,6 @@
       id="id-26be1daf248744318214e4659621e6d3"
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-6f103ac34bd4430ca15f48fd1a699e90"
-        lineColor="#000000"
-        source="id-26be1daf248744318214e4659621e6d3"
-        target="id-c60ef4638e77413e8344be6e1c19a28e">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-a9e6825acfe74497b0d0f651dde55add.xml#id-a9e6825acfe74497b0d0f651dde55add"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-473133d93d2043fab62c75cef0e3b98b"
-        lineColor="#000000"
-        source="id-26be1daf248744318214e4659621e6d3"
-        target="id-9acbdd7d953b4f049f56d6eef78a6dda">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-a9ddca2b0ac74ac7a3b3559175485441.xml#id-a9ddca2b0ac74ac7a3b3559175485441"/>
-    </sourceConnections>
     <bounds
         x="408"
         y="384"

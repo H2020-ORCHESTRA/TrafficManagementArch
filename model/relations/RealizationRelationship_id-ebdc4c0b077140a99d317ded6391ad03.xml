@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="for escort car"
+    id="id-ebdc4c0b077140a99d317ded6391ad03">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-a6e9342b88d649a3a99c67e5aefd451e.xml#id-a6e9342b88d649a3a99c67e5aefd451e"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-f5224f1062e041c5a380affaa8d2b88d.xml#id-f5224f1062e041c5a380affaa8d2b88d"/>
+</archimate:RealizationRelationship>
