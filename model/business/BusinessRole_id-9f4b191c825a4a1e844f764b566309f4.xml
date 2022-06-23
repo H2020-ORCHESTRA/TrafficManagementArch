@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Traffic Orchestrator"
+    id="id-9f4b191c825a4a1e844f764b566309f4"
+    documentation="The Traffic Orchestrator role is responsible for &#xA;- Traffic management. This is the management of the traffic flow in the networl to arrange for safety, efficienccy and optimal utilisation of the network.&#xA;- Transport network resource management. This is  the management of the access to and use of limited resources like parking spaces, loading bays, waiting areas, etc.&#xA;- Coordination towards the traffic orchestration in other modes, networks and/or governance areas and thereby to contrinute to a more optimal transport system as a whole - across modes and governance areas. &#xA;&#xA;The aim is to arrange for sustainable transport from an environmental, economical and societal point of view. "/>

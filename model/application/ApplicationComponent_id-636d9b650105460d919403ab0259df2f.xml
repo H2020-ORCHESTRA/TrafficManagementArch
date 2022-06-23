@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Individual scheduler for truck arrival smoothing "
+    id="id-636d9b650105460d919403ab0259df2f"
+    documentation="Parallel job scheduling formulation to locate optimal job selection by CAVs inside the port that minimizes collective turnaround time and waiting time for truck based on incoming demand. The individual scheduler is applied to each time-window throughout the day to confirm appointments and create a plan for the optimal utilization of resources.&#xA;&#xA;Use in LL and sim:&#xA;Used in the Simulation. Individual scheduler will determine congestion levels at the gate and or terminals of the port.&#xA;"/>

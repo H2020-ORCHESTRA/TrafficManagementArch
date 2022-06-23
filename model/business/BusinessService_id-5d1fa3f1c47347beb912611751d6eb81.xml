@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Operation Planning"
+    id="id-5d1fa3f1c47347beb912611751d6eb81"
+    documentation="&#xA;&#xA;Includes timeslot, where to drive, etc. corresponding to the demand requests.&#xA;&#xA;Transport Operation description from D3.1: This is overall information on schedules, route, type of transport, total capacity, the capacity used (e.g. number of passengers and load factor), current location (when the operation has started), etc.&#xA;&#xA;&#xA;Handle deviations to planned transport before the operation has started, triggered by the traffic orchestrator. Includes details on where and what the deviation is about (updated permissions), and whether new demand requests must be requested. Can include suggestions via other networks and modes."/>

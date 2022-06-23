@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dispatcher "
+    id="id-7d6d5cc6f99a43cdbe9c57a1ae431350"
+    documentation="A dispatcher optimises the usage of available connected vehicles according to transport orders.&#xA;Based on internal or external need for transportation, the Dispatcher selects the optimal vehicle for the task. When the order is due, the vehicle is sent to the pick-up/starting point and drives the planned route to the drop-off/stopping point.&#xA;&#xA;Use in LL and sim:&#xA;Used in Herøya Living Lab for trucks that need an autonomous guiding vehicle to guide them inside the industrial park.&#xA;"/>

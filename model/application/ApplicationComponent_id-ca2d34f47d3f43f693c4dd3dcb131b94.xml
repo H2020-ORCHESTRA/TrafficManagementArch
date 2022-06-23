@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Activity registration "
+    id="id-ca2d34f47d3f43f693c4dd3dcb131b94"
+    documentation="Connecting manually driven vehicles to the Fleet Management System to document where and what the vehicle is doing. Data used for real-time monitoring and reporting.&#xA;&#xA;An app transmitting the phone’s position while activated. Toggle-buttons activated by the driver to register different types of work performed.&#xA;&#xA;Use in LL and sim:&#xA;Used in Herøya Living Lab to get insight when and where the Guiding vehicle is guiding others or not.&#xA;"/>

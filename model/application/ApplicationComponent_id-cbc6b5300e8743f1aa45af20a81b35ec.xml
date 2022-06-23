@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Situation awareness"
+    id="id-cbc6b5300e8743f1aa45af20a81b35ec"
+    documentation="Real-time view of connected vehicles and road sensors available. Notifications / alert when outside defined limits.&#xA;&#xA;Scalable real-time web solution including 3D map for authorised users.&#xA;&#xA;Use in LL and sim:&#xA;Used in Herøya Living Lab to monitor the connected fleets and road conditions.&#xA;"/>

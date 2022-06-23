@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Job Generation for CAVs "
+    id="id-37490bdf12794aacb11017f1f5f9fcb8"
+    documentation="Bundling algorithm designed to create bundles of incoming trucks that can be serviced in parallel. Each bundle returns total turnaround and waiting time of each truck in the bundle, optimal order of pick-ups and drop-offs, as well as exit time of each truck in the port.&#xA;&#xA;Use in LL and sim:&#xA;Used in the Simulation. Demand will be generated stochastically, but will enforce the structure and guidelines of the proposed functionality.&#xA;"/>

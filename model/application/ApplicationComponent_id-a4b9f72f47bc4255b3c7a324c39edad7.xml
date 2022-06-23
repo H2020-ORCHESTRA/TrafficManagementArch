@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mobility Insights "
+    id="id-a4b9f72f47bc4255b3c7a324c39edad7"
+    documentation="Record mobility patterns by tracking when and where the vehicle drives.&#xA;Use in LL and sim:&#xA;Used in Herøya Living Lab to get insight into today’s operation and usage of manually driven Guiding vehicles. The knowledge gained will be used in planning how the autonomous guiding vehicle shall be utilised. &#xA;"/>

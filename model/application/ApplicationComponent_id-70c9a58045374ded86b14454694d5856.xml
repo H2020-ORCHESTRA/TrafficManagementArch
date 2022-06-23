@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dynamic guidance for disrupted agents "
+    id="id-70c9a58045374ded86b14454694d5856"
+    documentation="Real-time monitoring of incoming trucks/throughput of user to enable optimal ETA in case of disruption. Polycentric approach will be deployed, by creating zones of influence managed by BDI (Belief-Desire-Intention) Infrastructure agents. Infrastructure agents will have information for traffic inside their zones and partial communication with other Infrastructure agents. Vehicle traffic inside the zones is addressed, but not orchestrated, only guidance to disrupted agents&#xA;&#xA;A traffic simulator software MATSim/Aimsun will be used to model the agents. Clustering of regions will be conducted, using the Snake algorithm to divide the region in homogeneous zones.&#xA;&#xA;Use in LL and sim:&#xA;Used in the Simulation. Dynamic guidance will determine actual performance of the system and robustness.&#xA;&#xA;&#xA;"/>
