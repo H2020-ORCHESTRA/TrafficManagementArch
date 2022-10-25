@@ -30,8 +30,8 @@
         name="gradient"
         value="0"/>
     <bounds
-        x="276"
-        y="480"
+        x="242"
+        y="456"
         width="151"
         height="55"/>
     <archimateElement
@@ -100,7 +100,7 @@
         name="gradient"
         value="0"/>
     <bounds
-        x="1286"
+        x="1212"
         y="372"
         width="143"
         height="55"/>
@@ -117,8 +117,8 @@
         name="gradient"
         value="0"/>
     <bounds
-        x="575"
-        y="480"
+        x="534"
+        y="456"
         width="145"
         height="55"/>
     <archimateElement
@@ -178,8 +178,8 @@
         name="gradient"
         value="0"/>
     <bounds
-        x="1260"
-        y="481"
+        x="1050"
+        y="457"
         width="157"
         height="53"/>
     <archimateElement
@@ -195,8 +195,8 @@
         name="gradient"
         value="0"/>
     <bounds
-        x="444"
-        y="480"
+        x="402"
+        y="456"
         width="120"
         height="55"/>
     <archimateElement
@@ -212,8 +212,8 @@
         name="gradient"
         value="0"/>
     <bounds
-        x="1092"
-        y="480"
+        x="1218"
+        y="456"
         width="145"
         height="55"/>
     <archimateElement
@@ -268,8 +268,8 @@
           href="AssociationRelationship_id-704d8a87fe30439684a558f51d063924.xml#id-704d8a87fe30439684a558f51d063924"/>
     </sourceConnections>
     <bounds
-        x="751"
-        y="-36"
+        x="719"
+        y="48"
         width="120"
         height="55"/>
     <archimateElement
@@ -287,7 +287,7 @@
         value="0"/>
     <bounds
         x="900"
-        y="156"
+        y="168"
         width="144"
         height="55"/>
     <archimateElement
@@ -372,7 +372,7 @@
     </sourceConnections>
     <bounds
         x="480"
-        y="144"
+        y="156"
         width="143"
         height="55"/>
     <archimateElement
@@ -421,11 +421,6 @@
         id="id-71804df861af4a06b2cd3fbfbfe26208"
         source="id-9f81ce1f526846199e01fd350031d0b5"
         target="id-946cd59de87d4abba4aee5e0ee88c4ee">
-      <bendpoints
-          startX="60"
-          startY="178"
-          endX="-12"
-          endY="-171"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-54df2ed46ce841f7a38bed1d0994f661.xml#id-54df2ed46ce841f7a38bed1d0994f661"/>
@@ -435,6 +430,11 @@
         id="id-49f2c916932043d683add0777bf61bea"
         source="id-9f81ce1f526846199e01fd350031d0b5"
         target="id-ab0eb2575d454446aa4b4fb57bf5c877">
+      <bendpoints
+          startX="40"
+          startY="141"
+          endX="-102"
+          endY="-51"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-0b68708b05a644ca95283261a53ea063.xml#id-0b68708b05a644ca95283261a53ea063"/>
@@ -473,9 +473,9 @@
         target="id-a4dc4a08af0e44a18214a5fd1265368c">
       <bendpoints
           startX="36"
-          startY="81"
-          endX="-3"
-          endY="-87"/>
+          startY="117"
+          endX="37"
+          endY="-99"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-bcbefb4a59b6402b9fc63e30296dd4ba.xml#id-bcbefb4a59b6402b9fc63e30296dd4ba"/>
@@ -505,7 +505,7 @@
       <bendpoints
           startX="-18"
           startY="213"
-          endX="229"
+          endX="264"
           endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
@@ -561,15 +561,20 @@
         source="id-2055a01be25642068458a44c5084fc13"
         target="id-880a247f8ec744b4862906784a40edc9">
       <bendpoints
-          startX="21"
-          startY="381"
-          endX="960"
-          endY="165"/>
+          startX="144"
+          startY="-3"
+          endX="1092"
+          endY="-207"/>
       <bendpoints
-          startX="-975"
-          startY="381"
-          endX="-36"
-          endY="165"/>
+          startX="144"
+          startY="333"
+          endX="1092"
+          endY="129"/>
+      <bendpoints
+          startX="-1008"
+          startY="333"
+          endX="-60"
+          endY="129"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-d09728fc3c0946f2b460e7e0573b5752.xml#id-d09728fc3c0946f2b460e7e0573b5752"/>
@@ -579,6 +584,11 @@
         id="id-b970ebfc42dc4a3a92b48f17da3ad75c"
         source="id-2055a01be25642068458a44c5084fc13"
         target="id-6b1a2c2ee6764c9281ae26acbcfbf004">
+      <bendpoints
+          startX="-27"
+          startY="165"
+          endX="66"
+          endY="-159"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-cafab29c748541a598518ad7a7d5d8da.xml#id-cafab29c748541a598518ad7a7d5d8da"/>
@@ -588,11 +598,6 @@
         id="id-a115a402aea84b5ebe32bd4a48e0a294"
         source="id-2055a01be25642068458a44c5084fc13"
         target="id-bf304073f7094595a83d87b1e6a7cb07">
-      <bendpoints
-          startX="84"
-          startY="9"
-          endX="-66"
-          endY="-237"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-9922d6efdb1945869d413c848008acdd.xml#id-9922d6efdb1945869d413c848008acdd"/>
@@ -602,13 +607,18 @@
         id="id-96e9235875904593ace785aaf4c224ce"
         source="id-2055a01be25642068458a44c5084fc13"
         target="id-38fad9b71c514b4294316df06775d2ae">
+      <bendpoints
+          startX="129"
+          startY="9"
+          endX="66"
+          endY="-279"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-55f33ea2c52f4f16817ac5b6d3617ba8.xml#id-55f33ea2c52f4f16817ac5b6d3617ba8"/>
     </sourceConnections>
     <bounds
-        x="1167"
-        y="156"
+        x="1176"
+        y="168"
         width="120"
         height="55"/>
     <archimateElement
