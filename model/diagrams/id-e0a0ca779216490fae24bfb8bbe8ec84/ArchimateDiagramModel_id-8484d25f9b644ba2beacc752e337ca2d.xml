@@ -241,7 +241,8 @@
           height="169"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-cc655f410a4348758904403f363c9586">
+          id="id-cc655f410a4348758904403f363c9586"
+          targetConnections="id-603a50d1e8f74904917c662377afc98c">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-4ba305776d3f475ba7251274c8a08c18"
@@ -501,5 +502,23 @@
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_id-2a0ec8e9df024ce1b5deeecee3733be3.xml#id-2a0ec8e9df024ce1b5deeecee3733be3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-4683cb6775b54cb6879bbc4120e7a030"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Make this more clear by renaming to &quot;Report for Transport Tracking&quot;">
+    <sourceConnections
+        id="id-603a50d1e8f74904917c662377afc98c"
+        lineColor="#000000"
+        source="id-4683cb6775b54cb6879bbc4120e7a030"
+        target="id-cc655f410a4348758904403f363c9586"/>
+    <bounds
+        x="440"
+        y="616"
+        width="185"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>
