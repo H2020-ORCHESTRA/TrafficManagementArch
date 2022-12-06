@@ -589,4 +589,18 @@
           href="BusinessService_id-e829120ab5b543289d867f68c5f4ddda.xml#id-e829120ab5b543289d867f68c5f4ddda"/>
     </children>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-a5da6e3ce0f14cc28bc333a289ea56f0"
+      lineColor="#5c5c5c"
+      fillColor="#ffffe1">
+    <bounds
+        x="882"
+        y="36"
+        width="193"
+        height="85"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-0a07671f6a95410ca1bd914bf4f1e751.xml#id-0a07671f6a95410ca1bd914bf4f1e751"/>
+  </children>
 </archimate:ArchimateDiagramModel>

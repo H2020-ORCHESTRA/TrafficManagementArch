@@ -419,7 +419,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-660fa00d3ef548af9b2ad04aeb1abbcb"
-      targetConnections="id-b6f267509671462b87a8a35ce161737f id-dfb8522d6f634617992ded80cb045a17 id-c30812faf2d0427cbb509d20f3de316b id-13bcfaa4ae314df3b29bdae22a953943 id-902005a935e04718a54ff870e55ee2fa id-a1af16a257204877bbf9411b38dfe5e4 id-83de347f92f443e6b3cdbf03287237c3 id-cec90ab1646e4d2db3a7a4d26c160206"
+      targetConnections="id-b6f267509671462b87a8a35ce161737f id-dfb8522d6f634617992ded80cb045a17 id-c30812faf2d0427cbb509d20f3de316b id-13bcfaa4ae314df3b29bdae22a953943 id-902005a935e04718a54ff870e55ee2fa id-a1af16a257204877bbf9411b38dfe5e4 id-83de347f92f443e6b3cdbf03287237c3 id-cec90ab1646e4d2db3a7a4d26c160206 id-7de4235872d140e8a8c177c329f3989b"
       fillColor="#ffd0ff">
     <features
         name="gradient"
@@ -474,5 +474,29 @@
     <archimateElement
         xsi:type="archimate:Stakeholder"
         href="Stakeholder_id-f11dd5cfd1cb4f8a893df01bec2b1497.xml#id-f11dd5cfd1cb4f8a893df01bec2b1497"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2ab3dc733a5d4e9cae126f7d18d483a2"
+      lineColor="#5c5c5c"
+      fillColor="#ccccff">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-7de4235872d140e8a8c177c329f3989b"
+        lineColor="#000000"
+        source="id-2ab3dc733a5d4e9cae126f7d18d483a2"
+        target="id-660fa00d3ef548af9b2ad04aeb1abbcb">
+      <archimateRelationship
+          xsi:type="archimate:SpecializationRelationship"
+          href="SpecializationRelationship_id-dd933b2211a84162933b741a94588d58.xml#id-dd933b2211a84162933b741a94588d58"/>
+    </sourceConnections>
+    <bounds
+        x="792"
+        y="48"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_id-631ac0da606e4b7ca4082f70f9726008.xml#id-631ac0da606e4b7ca4082f70f9726008"/>
   </children>
 </archimate:ArchimateDiagramModel>
