@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Decomposition overview"
+    name="Decomposition Overview"
     id="id-c8c7471e32a540828f3336cc5470fdf2"
     viewpoint="implementation_deployment">
   <children
@@ -434,5 +434,38 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-4e3983478bd24a1e9abd12cd2e5cc098.xml#id-4e3983478bd24a1e9abd12cd2e5cc098"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7effe860f9f141bbb0d65dc1b55d60e7"
+      targetConnections="id-641c626315094075819e463aaa2e1ad6"
+      lineColor="#5c5c5c"
+      fillColor="#b5ffff">
+    <bounds
+        x="1032"
+        y="600"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-021ee219f81041d982f5c492cfbcfcdb.xml#id-021ee219f81041d982f5c492cfbcfcdb"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-6075af6a7af54987861b63805673139e"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Does this belong herer?&#xA;">
+    <sourceConnections
+        id="id-641c626315094075819e463aaa2e1ad6"
+        lineColor="#000000"
+        source="id-6075af6a7af54987861b63805673139e"
+        target="id-7effe860f9f141bbb0d65dc1b55d60e7"/>
+    <bounds
+        x="972"
+        y="483"
+        width="185"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>

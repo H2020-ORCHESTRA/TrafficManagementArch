@@ -14,7 +14,7 @@
         x="48"
         y="72"
         width="193"
-        height="374"/>
+        height="327"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-54dc4a1b9c5d48608e956fcb8d9392be"
@@ -24,7 +24,7 @@
           value="0"/>
       <bounds
           x="36"
-          y="216"
+          y="180"
           width="120"
           height="55"/>
       <archimateElement
@@ -40,7 +40,7 @@
           value="0"/>
       <bounds
           x="36"
-          y="132"
+          y="108"
           width="120"
           height="55"/>
       <archimateElement
@@ -56,7 +56,7 @@
           value="0"/>
       <bounds
           x="36"
-          y="48"
+          y="36"
           width="120"
           height="55"/>
       <archimateElement
@@ -72,7 +72,7 @@
           value="0"/>
       <bounds
           x="36"
-          y="300"
+          y="252"
           width="120"
           height="55"/>
       <archimateElement
@@ -87,9 +87,9 @@
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
-        x="324"
+        x="288"
         y="72"
-        width="188"
+        width="169"
         height="327"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -100,7 +100,7 @@
           value="0"/>
       <bounds
           x="24"
-          y="48"
+          y="36"
           width="120"
           height="55"/>
       <archimateElement
@@ -116,7 +116,7 @@
           value="0"/>
       <bounds
           x="24"
-          y="144"
+          y="108"
           width="120"
           height="55"/>
       <archimateElement
@@ -126,13 +126,13 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-5eba5013e4fc4237b207b60cf76b3743"
-        fillColor="#c0c0c0">
+        fillColor="#cccdfe">
       <features
           name="gradient"
           value="0"/>
       <bounds
           x="24"
-          y="240"
+          y="180"
           width="120"
           height="55"/>
       <archimateElement
@@ -147,10 +147,10 @@
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
-        x="588"
+        x="504"
         y="72"
-        width="205"
-        height="409"/>
+        width="325"
+        height="327"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-34d02b97b5fb4d938e8d6bc9596ed9f3"
@@ -207,8 +207,8 @@
           name="gradient"
           value="0"/>
       <bounds
-          x="36"
-          y="264"
+          x="180"
+          y="180"
           width="120"
           height="55"/>
       <archimateElement
@@ -223,13 +223,30 @@
           name="gradient"
           value="0"/>
       <bounds
-          x="36"
-          y="336"
+          x="180"
+          y="108"
           width="120"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Stakeholder"
           href="Stakeholder_id-beac0276ece14bec9b6398bb7ce2f791.xml#id-beac0276ece14bec9b6398bb7ce2f791"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-4f7f6ed587e5449f860e4bdbd7e6a7d2"
+        lineColor="#5c5c5c"
+        fillColor="#c1c1c1">
+      <features
+          name="gradient"
+          value="0"/>
+      <bounds
+          x="180"
+          y="36"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Stakeholder"
+          href="Stakeholder_id-631ac0da606e4b7ca4082f70f9726008.xml#id-631ac0da606e4b7ca4082f70f9726008"/>
     </children>
   </children>
 </archimate:ArchimateDiagramModel>

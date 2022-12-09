@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Network Situation"
+    name="Network Condition"
     id="id-f321c09890ce437db5daadfa6747456b"
     documentation="Information about weather conditions, driving/flight/sailing conditions, ..."/>

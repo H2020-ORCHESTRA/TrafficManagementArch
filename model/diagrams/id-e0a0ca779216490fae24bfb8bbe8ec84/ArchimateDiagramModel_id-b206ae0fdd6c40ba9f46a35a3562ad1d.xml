@@ -7,7 +7,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-86495323e34149948efc68bc5f6e7989"
-      name="System of Interest"
+      name="Of Relevance to System of Interest"
       textAlignment="1">
     <bounds
         x="240"
@@ -42,12 +42,12 @@
           id="id-58fd6b73f66d4f5a977133722a4e68bc"
           lineColor="#000000"
           source="id-842bea1e60e741828b6a9904460fe0c2"
-          target="id-42d1fd2b80964e5eaccc2bf2f5483a09">
+          target="id-bc0216ea134346ecb8d46fb0cd5df09e">
         <bendpoints
-            startX="-48"
-            startY="198"
-            endX="-36"
-            endY="-78"/>
+            startX="36"
+            startY="222"
+            endX="41"
+            endY="-77"/>
         <archimateRelationship
             xsi:type="archimate:FlowRelationship"
             href="FlowRelationship_id-fba6fbf2a40c481f9f6bfee0d5119ad3.xml#id-fba6fbf2a40c481f9f6bfee0d5119ad3"/>
@@ -270,7 +270,7 @@
     </sourceConnections>
     <bounds
         x="588"
-        y="144"
+        y="132"
         width="229"
         height="385"/>
     <children
@@ -288,9 +288,9 @@
       </sourceConnections>
       <bounds
           x="36"
-          y="264"
+          y="252"
           width="169"
-          height="97"/>
+          height="121"/>
       <children
           xsi:type="archimate:DiagramModelReference"
           id="id-d7af30c25a7142a1b2763b54b92b1362">
@@ -298,7 +298,7 @@
             x="24"
             y="36"
             width="120"
-            height="55"/>
+            height="73"/>
         <referencedModel
             xsi:type="archimate:ArchimateDiagramModel"
             href="ArchimateDiagramModel_id-375ae0e542b74e91a0f784d35f9a8b1a.xml#id-375ae0e542b74e91a0f784d35f9a8b1a"/>
@@ -322,7 +322,7 @@
       </sourceConnections>
       <bounds
           x="36"
-          y="156"
+          y="144"
           width="169"
           height="97"/>
       <children
@@ -347,7 +347,7 @@
         targetConnections="id-9b515dc1bc5a49f8909c33a4b29d928a id-dabc7ad16cbc4a14b12c4c8ca615b3ff">
       <bounds
           x="36"
-          y="48"
+          y="36"
           width="169"
           height="97"/>
       <children
@@ -422,19 +422,9 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-42d1fd2b80964e5eaccc2bf2f5483a09"
-      targetConnections="id-58fd6b73f66d4f5a977133722a4e68bc"
       lineColor="#5c5c5c"
+      textAlignment="1"
       fillColor="#ffffe1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-ed8d92d56d164d47b2f1bc1f96af0bf9"
-        lineColor="#000000"
-        source="id-42d1fd2b80964e5eaccc2bf2f5483a09"
-        target="id-842bea1e60e741828b6a9904460fe0c2">
-      <archimateRelationship
-          xsi:type="archimate:FlowRelationship"
-          href="FlowRelationship_id-661c5ae48a7443728958599c7a0f81cc.xml#id-661c5ae48a7443728958599c7a0f81cc"/>
-    </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-e607645158fc40ec8d5282e3fb1328cb"
@@ -452,9 +442,24 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-bc0216ea134346ecb8d46fb0cd5df09e"
-        targetConnections="id-e607645158fc40ec8d5282e3fb1328cb"
+        targetConnections="id-e607645158fc40ec8d5282e3fb1328cb id-58fd6b73f66d4f5a977133722a4e68bc"
         lineColor="#5c5c5c"
         fillColor="#ffffb5">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-ed8d92d56d164d47b2f1bc1f96af0bf9"
+          lineColor="#000000"
+          source="id-bc0216ea134346ecb8d46fb0cd5df09e"
+          target="id-842bea1e60e741828b6a9904460fe0c2">
+        <bendpoints
+            startX="53"
+            startY="-77"
+            endX="48"
+            endY="222"/>
+        <archimateRelationship
+            xsi:type="archimate:FlowRelationship"
+            href="FlowRelationship_id-661c5ae48a7443728958599c7a0f81cc.xml#id-661c5ae48a7443728958599c7a0f81cc"/>
+      </sourceConnections>
       <bounds
           x="43"
           y="38"

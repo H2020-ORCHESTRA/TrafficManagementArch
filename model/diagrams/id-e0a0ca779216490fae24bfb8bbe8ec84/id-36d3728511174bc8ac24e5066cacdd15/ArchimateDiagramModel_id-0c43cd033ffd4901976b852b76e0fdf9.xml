@@ -361,7 +361,7 @@
       <bounds
           x="12"
           y="34"
-          width="85"
+          width="73"
           height="63"/>
       <archimateElement
           xsi:type="archimate:BusinessObject"
@@ -453,7 +453,7 @@
           x="24"
           y="120"
           width="96"
-          height="55"/>
+          height="61"/>
       <archimateElement
           xsi:type="archimate:BusinessObject"
           href="BusinessObject_id-f32d7c1558f545748bef1d05189a147e.xml#id-f32d7c1558f545748bef1d05189a147e"/>
